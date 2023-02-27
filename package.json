@@ -1,0 +1,15 @@
+{
+  "name": "@ryaninvents/temp-storybook-ts-repro.monorepo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ryan Kennedy <ryan.kennedy@droplet.io>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "ui",
+    "storybook"
+  ],
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
