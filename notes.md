@@ -9,3 +9,4 @@
     - I'm going to attempt option (2) first since it seems least invasive. Ideally I'd like to try (3) since it seems the cleanest, but I've been down that road a little bit and it may require more research.
       - option (2) resulted in an error `TypeError: loaderContext.getOptions is not a function`
         - [downgrade ts-loader?](https://stackoverflow.com/a/68806961)
+        - this path works!
